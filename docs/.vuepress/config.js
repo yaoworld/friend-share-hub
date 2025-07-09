@@ -8,7 +8,7 @@ export default defineUserConfig({
 
   title: 'VuePress',
   description: 'My first VuePress Site',
-
+  base: '/friend-share-hub/',
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
