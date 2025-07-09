@@ -6,8 +6,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: 'Friend Share Hub',
+  description: 'A platform for friends to share various good stuff, experiences and resources',
   base: '/friend-share-hub/',
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
