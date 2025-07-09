@@ -1,12 +1,10 @@
 ---
-date: 2025-07-08T00:00:00.000Z
+title: Git Ignore
+date: 2025-07-08
 category:
   - Git
 tag:
   - ignore
-title: git-ignore
-createTime: 2025/07/09 16:04:10
-permalink: /article/ha4iczz7/
 ---
 
 # ignore 忽略规则

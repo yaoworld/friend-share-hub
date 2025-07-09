@@ -1,14 +1,12 @@
 ---
-date: 2025-07-09T00:00:00.000Z
+title: Zustand
+date: 2025-07-09
 category:
   - React
 tag:
   - React
   - 状态管理
   - Zustand
-title: zustand
-createTime: 2025/07/09 16:17:46
-permalink: /article/wu3wq2ha/
 ---
 
 # Zustand

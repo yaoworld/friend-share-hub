@@ -22,13 +22,13 @@ export default defineUserConfig({
     // 配置站点图标
     ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
   ],
-
+  permalinkPattern: ':year/:month/:day/:slug.html',
   bundler: viteBundler(),
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://your_site_url',
+    hostname: 'https://yaoworld.github.io',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
@@ -68,11 +68,11 @@ export default defineUserConfig({
      * 为 markdown 文件自动添加 frontmatter 配置
      * @see https://theme-plume.vuejs.press/config/basic/#autofrontmatter
      */
-    // autoFrontmatter: {
-    //   permalink: true,  // 是否生成永久链接
-    //   createTime: true, // 是否生成创建时间
-    //   title: true,      // 是否生成标题
-    // },
+    autoFrontmatter: {
+      permalink: false,  // 是否生成永久链接
+      createTime: false, // 是否生成创建时间
+      title: false,      // 是否生成标题
+    },
 
     /* 本地搜索, 默认启用 */
     search: { provider: 'local' },

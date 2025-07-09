@@ -1,5 +1,6 @@
 ---
-date: 2025-07-09T00:00:00.000Z
+title: HexHub 为程序员和运维人员量身打造的一站式开发运维利器
+date: 2025-07-09
 category:
   - 工具
 tag:
@@ -8,9 +9,6 @@ tag:
   - SSH
   - SFTP
   - HexHub
-title: hex-hub
-createTime: 2025/07/09 16:19:14
-permalink: /article/8tkxhh0g/
 ---
 
 # HexHub
