@@ -1,0 +1,3 @@
+Sitemap: https://yaoworld.github.io/friend-share-hub/sitemap.xml
+User-agent:*
+Disallow:
