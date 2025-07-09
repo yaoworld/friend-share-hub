@@ -1,5 +1,12 @@
+---
+date: 2025-07-08
+category:
+  - Git
+tag:
+  - ignore
+---
 
-## ignore 忽略规则
+# ignore 忽略规则
 
 ```
 name  //忽略文件
