@@ -1,6 +1,6 @@
 ---
 title: AI模型分享
-date: 2025-07-10
+createTime: 2025-07-10
 category:
   - AI
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Git Ignore
-date: 2025-07-08
+createTime: 2025-07-08
 category:
   - Git
 tag:
