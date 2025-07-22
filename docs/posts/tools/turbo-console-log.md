@@ -8,7 +8,7 @@ tags:
   - JavaScript
   - TypeScript
   - 开发工具
-createTime: 2025-07-21
+date: 2025-07-21
 ---
 
 # Turbo Console Log：让调试变得更高效的 VS Code 插件

@@ -7,7 +7,7 @@ tags:
   - JavaScript
   - TypeScript
   - 开发工具
-createTime: 2025-07-21
+date: 2025-07-21
 ---
 
 # Console Ninja：革命性的 VS Code 调试插件

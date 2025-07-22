@@ -1,9 +1,8 @@
 ---
 title: CSS 容器查询
-createTime: 2025-07-17
-category:
+date: 2025-07-17
+tags:
   - css
-tag:
   - 容器查询
 ---
 

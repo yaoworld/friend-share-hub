@@ -1,9 +1,7 @@
 ---
 title: Zustand
-createTime: 2025-07-09
-category:
-  - React
-tag:
+date: 2025-07-09
+tags:
   - React
   - 状态管理
   - Zustand

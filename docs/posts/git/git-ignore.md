@@ -1,9 +1,8 @@
 ---
 title: Git Ignore
-createTime: 2025-07-08
-category:
+date: 2025-07-08
+tags:
   - Git
-tag:
   - ignore
 ---
 
